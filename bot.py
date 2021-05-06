@@ -42,6 +42,3 @@ async def reload(ctx, extension):
 @client.command()
 async def test(ctx):
     async atx.send("test")
-
-
-client.run("ODI3NDQ2ODUxMzE3MjY4NDgw.YGbJ7g.7DOF5Nf-AFCGLEh1eQ3vSekzuNk")
